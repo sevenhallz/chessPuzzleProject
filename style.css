@@ -1,0 +1,32 @@
+body {
+	padding: 40px;
+	background: whitesmoke;
+	text-align: center;
+}
+
+#pawn-shelf {
+	background: burlywood;
+	border-radius: 10px;
+	height: 30px;
+	margin: 10px 0;
+}
+
+#minorpieces-shelf {
+	background: khaki;
+	border-radius: 10px;
+	height: 30px;
+	margin: 10px 0
+}
+
+#rook-shelf {
+	background: lightskyblue;
+	border-radius: 10px;
+	height: 30px;
+	margin: 10px 0
+}
+
+#royal-shelf {
+	background: palegoldenrod;
+	border-radius: 10px;
+	height: 30px;
+}
